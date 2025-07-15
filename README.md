@@ -1,50 +1,85 @@
-# Welcome to your Expo app 👋
+# 🏠 Real Estate App – React Native + Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A modern mobile application built using **React Native**, **Expo**, and **Appwrite**. This app allows users to explore real estate listings, view property details, and manage profiles — all from a clean and responsive interface.
 
-## Get started
+📱 Developed with file-based routing, TailwindCSS (via NativeWind), and Appwrite backend integration (auth, database, storage).
 
-1. Install dependencies
+## 📸 Preview
 
-   ```bash
-   npm install
-   ```
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/02f00946-a2cf-4cfc-baa3-16b660e5e7a9" width="300" alt="App Overview"/>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/39e4062e-d6a8-4a5c-b081-7772504b061d" width="250" alt="Property Listings"/>
+  <img src="https://github.com/user-attachments/assets/d5ff2f10-29c0-405e-b55b-70bc04b74cf7" width="250" alt="Property Details"/>
+  <img src="https://github.com/user-attachments/assets/c6c9a7c5-76cd-463f-b748-d3fcea92fb72" width="250" alt="Search & Filter"/>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7d813522-bb06-4de8-94c9-5c968d923712" width="250" alt="User Profile"/>
+  <img src="https://github.com/user-attachments/assets/ad164881-7398-4605-a351-6038d9163843" width="250" alt="Settings"/>
+</div>
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## 🚀 Getting Started
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+To run this project locally:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 1. Clone the repository
 
-## Get a fresh project
+```
+git clone https://github.com/AbdelilahXR/RealEstateMobileApp
+cd RealEstateMobileApp
+```
 
-When you're ready, run:
+### 2. Install dependencies
 
-```bash
+```
+npm install
+```
+
+### 3. Start the development server
+
+```
+npx expo start
+```
+
+You can open the app in:
+- 📱 Expo Go (for quick testing)
+- 🧪 Development build
+- 📱 Android Emulator
+- 🍏 iOS Simulator
+
+## 🛠️ Tech Stack
+
+- **React Native** – UI Framework
+- **Expo SDK 53** – Build tools & platform integration
+- **TypeScript** – Type safety
+- **NativeWind + TailwindCSS** – Styling
+- **Appwrite** – Backend as a Service (Auth, DB, Storage)
+
+## 🧪 Development Tips
+
+You can reset the project starter files with:
+
+```
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This will move starter code to `app-example/` and leave `app/` blank.
 
-## Learn more
+## 📚 Learn More
 
-To learn more about developing your project with Expo, look at the following resources:
+- 📘 [Expo Documentation](https://docs.expo.dev/)
+- 📖 [Learn Expo Tutorial](https://docs.expo.dev/tutorial/introduction/)
+- 💬 [Expo Discord](https://chat.expo.dev/)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🙌 Join the Community
 
-## Join the community
+- [Expo on GitHub](https://github.com/expo/expo)
+- [Appwrite on GitHub](https://github.com/appwrite/appwrite)
 
-Join our community of developers creating universal apps.
+## 🤝 Contributing
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Contributions are welcome! Please feel free to submit a Pull Request.
+
