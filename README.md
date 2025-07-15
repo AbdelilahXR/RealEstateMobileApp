@@ -18,7 +18,7 @@ A modern mobile application built using **React Native**, **Expo**, and **Appwri
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7d813522-bb06-4de8-94c9-5c968d923712" width="250" alt="User Profile"/>
   <img src="https://github.com/user-attachments/assets/ad164881-7398-4605-a351-6038d9163843" width="250" alt="Settings"/>
-  <img width="430" height="975" alt="image" src="https://github.com/user-attachments/assets/2133302e-26de-42f2-b304-0fc9caab5282" />
+  <img width="250"  alt="image" src="https://github.com/user-attachments/assets/2133302e-26de-42f2-b304-0fc9caab5282" />
 
 </div>
 
