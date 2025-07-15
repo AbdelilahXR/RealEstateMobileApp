@@ -7,11 +7,12 @@ A modern mobile application built using **React Native**, **Expo**, and **Appwri
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/02f00946-a2cf-4cfc-baa3-16b660e5e7a9" width="300" alt="App Overview"/>
+  <img src="https://github.com/user-attachments/assets/02f00946-a2cf-4cfc-baa3-16b660e5e7a9" width="280" alt="App Overview"/>
+  <img src="https://github.com/user-attachments/assets/1db3862b-9784-4add-a0f4-9a51bfbc752a" width="280" alt="Hero Screen"/>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39e4062e-d6a8-4a5c-b081-7772504b061d" width="250" alt="Property Listings"/>
   <img src="https://github.com/user-attachments/assets/d5ff2f10-29c0-405e-b55b-70bc04b74cf7" width="250" alt="Property Details"/>
+  <img src="https://github.com/user-attachments/assets/39e4062e-d6a8-4a5c-b081-7772504b061d" width="250" alt="Property Listings"/>
   <img src="https://github.com/user-attachments/assets/c6c9a7c5-76cd-463f-b748-d3fcea92fb72" width="250" alt="Search & Filter"/>
 </div>
 <div align="center">
